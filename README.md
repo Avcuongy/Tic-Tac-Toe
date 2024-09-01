@@ -1,3 +1,3 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Hifumi%20muri%20muri.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/Avcuongy/Tic-Tac-Toe/master/Audio%20And%20Picture/Tic%20tac%20toe.png"  />
 </div>
