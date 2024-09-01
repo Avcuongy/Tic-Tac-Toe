@@ -11,8 +11,8 @@ class TicTacToe:
 
         py.init()
         py.mixer.init()
-        self.music_file = 'D:/Python Project/Tic tac toe/Audio And Picture/BGM.mp3'
-        self.image_file = 'D:/Python Project/Tic tac toe/Audio And Picture/Hello.png'
+        self.music_file = 'Audio And Picture/BGM.mp3'
+        self.image_file = 'Audio And Picture/Hello.png'
         self.frames = {'menu': None, 'game': None, 'result': None}
         
         self.LoadAssets()
