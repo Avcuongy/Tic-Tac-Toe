@@ -81,7 +81,6 @@ class TicTacToe:
                 self.buttons[r][c] = btn
 
     def OnButtonClick(self, r, c):
-        """Handle button click during the game."""
         if self.buttons[r][c]['text'] == ' ' and self.turn == 'X':
             self.buttons[r][c]['text'] = 'X'
             self.buttons[r][c]['fg'] = 'black'
